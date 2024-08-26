@@ -59,9 +59,9 @@ Testing is a critical aspect of QA and involves various types of testing, includ
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Vague prompt : How to define date to some random time ? 
+<code>Vague prompt :</code> How to define date to some random time ? 
 
-Good prompt : <code>I have a date column in my data set. 
+<code>Good prompt : </code>I have a date column in my data set.
 
 They days are noted 1, 2, 3, etc and the hours are note 0, 1, 2, etc. 
 
